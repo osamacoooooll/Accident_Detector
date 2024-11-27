@@ -1,5 +1,7 @@
 # Accident Detection and Prediction
 
+![architecture pipeline](https://github.com/user-attachments/assets/0960b5fc-a3c2-4178-9472-eda3360b9c73)
+
 ## Overview
 With the growing demand for intelligent transportation systems, this project focuses on accident detection and prediction from video data. By leveraging modern computer vision techniques and deep learning models, the project aims to advance accident analysis, contributing to traffic safety research. This work is crucial for the development of safety-guaranteed autonomous vehicles and accident prevention systems.
 
