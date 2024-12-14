@@ -1,4 +1,6 @@
-# Accident Detection and Prediction
+# Note: this project is under progress
+# Accident Detection and Prediction(our future vision)
+
 
 ![architecture pipeline](https://github.com/user-attachments/assets/0960b5fc-a3c2-4178-9472-eda3360b9c73)
 
